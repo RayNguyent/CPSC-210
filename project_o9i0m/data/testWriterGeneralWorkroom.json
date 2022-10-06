@@ -1,0 +1,13 @@
+{
+    "statues": [
+        {
+            "amountFunded": 0,
+            "name": "Guanyin"
+        },
+        {
+            "amountFunded": 0,
+            "name": "Buddha"
+        }
+    ],
+    "name": "Shaolin"
+}
